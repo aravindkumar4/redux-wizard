@@ -14,6 +14,7 @@ function App() {
         <Col lg='6'>
           <AddForm />
           <AddTable /> 
+          
         </Col>
       </Row>
     </Container>
